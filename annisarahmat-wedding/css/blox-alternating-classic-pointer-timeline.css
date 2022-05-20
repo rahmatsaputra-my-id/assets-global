@@ -130,4 +130,7 @@
 	.blox-alternating-classic-pointer-timeline li:nth-child(2n) .blox-wrapper{ margin:0;}
 	.blox-alternating-classic-pointer-timeline li .blox-wrapper:before,
 	.blox-alternating-classic-pointer-timeline li:nth-child(2n) .blox-wrapper:before{left:50%; top:-10px; right:auto; margin-left:-10px;}
-	}
+	}		
+	
+
+	
